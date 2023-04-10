@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frinkleko 
-- 👀 I’m interested in ML, Data Science
-- 🌱 I’m currently majoring in AI in SCUT
+- 👀 I’m interested in Graph Learning, Data Mining, Machine Learning.
+- 🌱 I’m currently majoring in AI in South China University of Technology.
 - 📫 Reach me by frinkleko@gmail.com
 
 #### Platform&Tools
