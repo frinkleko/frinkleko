@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @frinkleko 
-- 👀 I’m interested in Graph Learning, Data Mining, Machine Learning.
-- 🌱 I’m currently majoring in AI in South China University of Technology.
+- 👋 Hi, I’m @frinkleko
+- 👀 I’m interested in Graph Learning, Data Mining 
+- 🌱 I’m currently a Third-year undergraduate student majoring in AI in South China University of Technology
 - 📫 Reach me by frinkleko@gmail.com
+- 😆 Know more about me on my personal website [xinjie-shen.com](xinjie-shen.com)
 
 #### Language&Platform&Tools
 <p align="center">
