@@ -2,7 +2,7 @@
 - 👀 I’m interested in Graph Learning, Data Mining 
 - 🌱 I’m currently a Third-year undergraduate student majoring in AI in South China University of Technology
 - 📫 Reach me by frinkleko@gmail.com
-- 😆 Know more about me on my personal website [xinjie-shen.com](xinjie-shen.com)
+- 😆 Know more about me on my personal website [xinjie-shen.com](https://xinjie-shen.com)
 
 #### Language&Platform&Tools
 <p align="center">
